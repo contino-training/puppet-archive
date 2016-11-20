@@ -1,5 +1,4 @@
 # Puppet Archive
-# This is Vishnu from HSBC
 
 [![License](https://img.shields.io/github/license/voxpupuli/puppet-archive.svg)](https://github.com/voxpupuli/puppet-archive/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/voxpupuli/puppet-archive.png?branch=master)](https://travis-ci.org/voxpupuli/puppet-archive)
